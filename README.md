@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+---
+
+<p align="center">
+  <img src="./Banner.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 <!--
 **Ujjwal807/Ujjwal807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
