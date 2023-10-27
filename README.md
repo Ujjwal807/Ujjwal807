@@ -12,7 +12,7 @@ I am a Front-End Web Developer who is exploring Full Stack Web Developement whil
  
  🌱 I’m currently learning <img src=""> MERN Stack
  
- :books: I want to learn <img src="[./next.png](https://cdn-1.webcatalog.io/catalog/next-js-docs/next-js-docs-icon-filled-256.webp?v=1675593584368)"> and <img src=""/>
+ :books: I want to learn <img src="https://cdn-1.webcatalog.io/catalog/next-js-docs/next-js-docs-icon-filled-256.webp?v=1675593584368"> and <img src=""/>
  
  👯 I’m looking to collaborate for a **Front-End** project.
  
