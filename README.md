@@ -10,9 +10,9 @@ I am a Front-End Web Developer who is exploring Full Stack Web Developement whil
  
  🔭 I’m planning for a ** Full Stack Website with advanced concepts **.
  
- 🌱 I’m currently learning <img src="./node.png"> MERN Stack
+ 🌱 I’m currently learning <img src=""> MERN Stack
  
- :books: I want to learn <img src="./next.png"> and <img src="./node.png"/>
+ :books: I want to learn <img src="./next.png"> and <img src=""/>
  
  👯 I’m looking to collaborate for a **Front-End** project.
  
