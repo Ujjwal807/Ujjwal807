@@ -12,7 +12,7 @@ I am a Front-End Web Developer who is exploring Full Stack Web Developement whil
  
  🌱 I’m currently learning <img src=""> MERN Stack
  
- :books: I want to learn <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RpUfSAFP--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8otweo5ef6kwc26rmxe5.png" width="3px"> and <img src=""/>
+ :books: I want to learn <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RpUfSAFP--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8otweo5ef6kwc26rmxe5.png" width="30px"> and <img src=""/>
  
  👯 I’m looking to collaborate for a **Front-End** project.
  
