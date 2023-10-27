@@ -10,9 +10,9 @@ I am a Front-End Web Developer who is exploring Full Stack Web Developement whil
  
  🔭 I’m planning for a ** Full Stack Website with advanced concepts **.
  
- 🌱 I’m currently learning <img src=""> MERN Stack
+ 🌱 I’m currently learning <img src="https://www.boardinfinity.com/blog/content/images/2023/01/Mern.png" width="55px"> MERN Stack
  
- :books: I want to learn <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" width="30px"> and <img src=""/>
+ :books: I want to learn <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" width="40px"> and <img src="https://positiwise.com/blog/wp-content/uploads/2021/12/node-js-for-software-development-1200x600-1.jpg" width="40px"/>
  
  👯 I’m looking to collaborate for a **Front-End** project.
  
