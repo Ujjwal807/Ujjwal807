@@ -34,9 +34,11 @@ I am a Front-End Web Developer who is exploring Full Stack Web Developement whil
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="UJJWAL | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="left">
+<a href="https://twitter.com/Ujjawalgupta_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ujjawal" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/ujjawal-u-a14247269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ujjawal" height="30" width="40" /></a>
+  <a href="https://instagram.com/uj.jawal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uj.jawal_" height="30" width="40" /></a>
+</p>
 
 <br/>
 
