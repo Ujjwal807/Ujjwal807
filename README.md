@@ -19,7 +19,7 @@ I am a Front-End Web Developer who is exploring Full Stack Web Developement whil
  🤔 I’m looking for help with Backend Apps.
  
  💬 Ask me about Front-End Development, and any Tech-related stuff.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ujjwal807&label=Profile%20views&color=red&style=for-the-badge" alt="Ujjawal" /> </p>
 
 ### Tech & Tools Preference
 
