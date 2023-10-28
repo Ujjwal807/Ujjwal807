@@ -12,7 +12,7 @@ I am a Front-End Web Developer who is exploring Full Stack Web Developement whil
  
  🌱 I’m currently learning <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4BjMqsdN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4anecy5mdl4pho8w7519.jpg" width="40px" style="transform: translateY(12px)"> MERN Stack
  
- :books: I want to learn <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" width="40px"> and <img src="https://www.itnetwork.sk/images/10733/nodejs/nodejs_logo.png" width="30px"/>
+ :books: I want to learn <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" width="40px"> and <img src="https://www.itnetwork.sk/images/10733/nodejs/nodejs_logo.png" width="30px" style="transform: translateY(15px)"/>
  
  👯 I’m looking to collaborate for a **Front-End** project.
  
