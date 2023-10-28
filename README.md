@@ -39,3 +39,5 @@ I am a Front-End Web Developer who is exploring Full Stack Web Developement whil
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
+
+[![An image of @ujjawalgu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjawalgu)](https://holopin.io/@ujjawalgu)
